@@ -6,6 +6,15 @@ public class Sample {
 		// TODO Auto-generated method stub
 		System.out.println("sample program");
 		System.err.println("welcom");
+		
+		
+		
+		System.err.println("welcom");System.err.println("welcom");
+		System.err.println("welcom");
+		System.err.println("welcom");System.err.println("welcom");
+		System.err.println("welcom");
+		System.err.println("welcom");
+		System.err.println("welcom");
 	}
 
 }
