@@ -9,8 +9,7 @@ System.out.println("hello");
 		System.err.println("welcom");
 		
 		
-<<<<<<< HEAD
-		
+
 		System.err.println("welcom");System.err.println("welcom");
 		System.err.println("welcom");
 		System.err.println("welcom");System.err.println("welcom");
@@ -20,9 +19,8 @@ System.out.println("hello");
 
 		System.out.println("sridhar and mamta ");
 System.out.println("onlyh for master ");
-	}
-=======
+
 	}	
->>>>>>> practicecode
+
 
 }
