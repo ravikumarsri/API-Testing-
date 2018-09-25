@@ -7,16 +7,7 @@ public class Sample {
 		System.out.println("sample program");
 System.out.println("hello");
 		System.err.println("welcom");
-		
-		
-
-		System.err.println("welcom");System.err.println("welcom");
-		System.err.println("welcom");
-		System.err.println("welcom");System.err.println("welcom");
-		System.err.println("welcom");
-		System.err.println("welcom");
-		System.err.println("welcom");
-
+	
 		System.out.println("sridhar and mamta ");
 System.out.println("onlyh for master ");
 
