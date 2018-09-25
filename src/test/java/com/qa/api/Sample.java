@@ -8,13 +8,6 @@ public class Sample {
 		System.err.println("welcom");
 		
 		
-		
-		System.err.println("welcom");System.err.println("welcom");
-		System.err.println("welcom");
-		System.err.println("welcom");System.err.println("welcom");
-		System.err.println("welcom");
-		System.err.println("welcom");
-		System.out.println("sridhar and mamta ");
-	}
+	}	
 
 }
